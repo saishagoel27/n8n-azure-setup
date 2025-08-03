@@ -34,8 +34,5 @@ Internet → Azure VM (Ubuntu) → Docker → n8n Container
 - **Network**: Usually free
 - **Total**: Covered by student credits!
 
-## Contributing
-Found an issue? Submit a PR! 
-
 ## License
 MIT License - Feel free to use and modify!
