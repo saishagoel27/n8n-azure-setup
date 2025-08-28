@@ -9,8 +9,8 @@ services:
     environment:
       - N8N_BASIC_AUTH_ACTIVE=true
       - N8N_BASIC_AUTH_USER=admin
-      - N8N_BASIC_AUTH_PASSWORD=sg@38890
+   - N8N_BASIC_AUTH_PASSWORD=your_password_here
       - N8N_HOST=0.0.0.0
       - N8N_PORT=5678
       - N8N_SECURE_COOKIE=false
-      - WEBHOOK_URL=http://172.178.116.79:5678/
+      - WEBHOOK_URL=http://VM_IP_Address/
